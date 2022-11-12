@@ -1,11 +1,11 @@
-<h1>Hello :wave:! I'm David, thanks for checking out my page. <br/>I am a <a href="https://github.com/davidc6">Software Developer</a>
+<h1>Hello :wave: I'm David, thanks for checking out my page! <br/>I am a <a href="https://github.com/davidc6">Software Developer</a>
 
 <h2>:mag_right: Just a few things about me:</h2>
 
-- :hammer: Maker / engineer at heart
+- :hammer: Maker
 - :mortar_board: Computer Science enthusiast
 - :computer: Programming languages and paradigms explorer
-- :battery: High energy, let's go! 
+- :student: Lifelong learner
 
 <h2>:microscope: Projects I have worked / working on:</h2>
 
