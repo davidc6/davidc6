@@ -1,6 +1,6 @@
 <h1>Hello :wave: I'm David, thanks for checking out my page! <br/>I am a <a href="https://github.com/davidc6">Software Developer</a>
 
-<h2>:mag_right: Just a few things about me:</h2>
+<h2>:mag_right: Several words about me:</h2>
 
 - :hammer: Maker
 - :mortar_board: Computer Science enthusiast
