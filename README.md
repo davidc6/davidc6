@@ -11,9 +11,9 @@
 
 - <b>Various mini project to assist with learning Rust</b>
   - [Exploring Rust](https://github.com/davidc6/exploring_rust)
-- <b>A simple events management full Stack web app (React, NodeJS, TypeScript, PostgreSQL, Docker)</b>
+- <b>A simple events management full stack web app (React, NodeJS, TypeScript, PostgreSQL, Docker)</b>
   - [Events Management](https://github.com/davidc6/events-management)
-- <b>A simple iTunes search full Stack web app (React, NodeJS, TypeScript)</b>
+- <b>A simple iTunes search full stack web app (React, NodeJS, TypeScript)</b>
   - [iTunes Search](https://github.com/davidc6/itunes-search)
 - <b>A compilation of notes on various Computer Science topics</b>
   - [CS Knowledge](https://github.com/davidc6/cs-knowledge)
