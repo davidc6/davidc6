@@ -9,7 +9,7 @@
 
 <h2>:microscope: Projects I have worked / working on:</h2>
 
-- <b>Various project to learn Rust</b>
+- <b>Various mini project to assist with learning Rust</b>
   - [Exploring Rust](https://github.com/davidc6/exploring_rust)
 - <b>A simple events management full Stack web app (React, NodeJS, TypeScript, PostgreSQL, Docker)</b>
   - [Events Management](https://github.com/davidc6/events-management)
