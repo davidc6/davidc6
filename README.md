@@ -1,6 +1,6 @@
 <h1>Hello :wave: I'm David, thanks for checking out my page! <br/>I am a <a href="https://github.com/davidc6">Software Developer</a>
 
-<h2>Several words about me:</h2>
+<h2>A couple of words about me:</h2>
 
 - :hammer: Maker
 - :mortar_board: Computer Science enthusiast
@@ -11,6 +11,8 @@
 
 - <b>Various Rust projects and notes</b>
   - [Exploring Rust](https://github.com/davidc6/exploring_rust)
+- <b>A url crawler in Rust</b>
+  - [URL Crawler]([https://github.com/davidc6/exploring_rust](https://github.com/davidc6/url-crawler))
 - <b>A simple events management full stack web app (React, NodeJS, TypeScript, PostgreSQL, Docker)</b>
   - [Events Management](https://github.com/davidc6/events-management)
 - <b>A simple iTunes search full stack web app (React, NodeJS, TypeScript)</b>
@@ -19,8 +21,6 @@
   - [CS Knowledge](https://github.com/davidc6/cs-knowledge)
 - <b>A simple job fetcher cli written in Go</b>
   - [Go fetcher](https://github.com/davidc6/go-fetcher)
-- <b>URL fetcher written in a functional programming style</b>
-  - [Fetcher](https://github.com/davidc6/fetcher)
 
 <h2>Let's connect:</h2>
 
