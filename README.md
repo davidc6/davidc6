@@ -12,7 +12,7 @@
 - <b>Various Rust projects and notes</b>
   - [Exploring Rust](https://github.com/davidc6/exploring_rust)
 - <b>A url crawler in Rust</b>
-  - [URL Crawler]([https://github.com/davidc6/exploring_rust](https://github.com/davidc6/url-crawler))
+  - [URL Crawler](https://github.com/davidc6/exploring_rust](https://github.com/davidc6/url-crawler)
 - <b>A simple events management full stack web app (React, NodeJS, TypeScript, PostgreSQL, Docker)</b>
   - [Events Management](https://github.com/davidc6/events-management)
 - <b>A simple iTunes search full stack web app (React, NodeJS, TypeScript)</b>
