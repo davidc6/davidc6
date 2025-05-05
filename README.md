@@ -1,6 +1,6 @@
-<h1>Hello :wave: I'm David, thanks for checking out my page! <br/>I am a <a href="https://github.com/davidc6">Software Developer</a>
+<h1>Hello :wave: I'm David, thanks for checking out my page! <br/>I am a <a href="https://github.com/davidc6">Software Developer</a></h1>
 
-<h5> I am a big believer in continuous learning. You'll notice that my contributions graph that I commit code daily. While this may not be sustainable over the long period of time, it helps me to hold myself accountable to doing the work and improving my skills and knowledge.</h5>
+<p> I am a big believer in continuous learning. You'll probably notice from my contributions graph that I commit code daily. While this may not be sustainable over the long period of time, it helps me to hold myself accountable to doing the work and improving my skills and knowledge.</p>
 
 <h2>About me:</h2>
 
