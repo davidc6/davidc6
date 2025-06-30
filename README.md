@@ -1,6 +1,6 @@
 <h1>Hello :wave: I'm David, thanks for checking out my page! <br/>I am a <a href="https://github.com/davidc6">Software Developer</a></h1>
 
-<p> I am a big believer in continuous learning and I try to commit code daily. While this may not be sustainable in the long run, it helps me stay accountable and continue improving my skills and knowledge."</p>
+<p>I am a big believer in continuous learning and I try to commit code daily. This could be code or study notes that I share with the world. While this may not be sustainable in the long run, it helps me stay accountable and continue improving my skills and knowledge.</p>
 
 <h2>About me:</h2>
 
